@@ -38,7 +38,7 @@ and start dispatching eventRequests. See gigger/monitor/monitor.html for some
 examples.
 
 == Build ==
-if you want to have one file whith all modules in it you can build it. The
+if you want to have one file with all modules in it you can build it. The
 script to do this is shipped and can be used with node:
 'node r.js -o scripts/gigger.build.js'
 
